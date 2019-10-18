@@ -1,2 +1,2 @@
 # test2
-again learning
+again learning how to pull and push
